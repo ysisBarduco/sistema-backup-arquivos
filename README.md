@@ -16,7 +16,7 @@
 ## Sobre o Projeto
 Este projeto consiste em um programa desenvolvido em Shell Script para automatizar backups de arquivos e diretórios, permitindo salvar múltiplas origens em um diretório de destino local ou remoto. Criado como projeto final da disciplina Administração de Sistemas – DS010, do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da UFPR.
 
-[Acesse a documentação do Projeto](/Documentação/DS010 - Projeto Final.pdf)
+[Acesse a documentação do Projeto](./Documentação/DS010 - Projeto Final.pdf)
 
 ---
 

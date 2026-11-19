@@ -12,8 +12,8 @@
 **Ano:** 2025  
 
 **Autores:**
-- Ariane de Oliveira Neves — GRR20253191  
-- Ysis Barduco Straub de Lima — GRR20251303  
+- Ariane de Oliveira Neves
+- Ysis Barduco Straub de Lima
 
 ---
 
